@@ -1,0 +1,230 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+    height: 100px;
+}
+
+div{
+    height: 400px;
+}
+
+.fondoColor{
+    background-color: #0f6666;
+
+}
+
+.fondoOpacidad{
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+.fin{
+    background-color: #99dfff;
+    opacity: 0.6;
+}
+
+.fondoImagen{
+   /* background-image: url("https://www.elindependiente.com/wp-content/uploads/2021/02/EuropaPress_3522091_enfermera_atencion_primaria_area_sanitaria_nerea_bernardo_prepara_segunda.jpg"); */
+    background-image: url("../Enviar\ tarea/vacuna.jpg");
+    height: 500px;
+    width: 500px;
+    float:right;
+    background-repeat: no-repeat;
+}
+
+.icono{
+    padding-left:0px;
+    background-image: url("../Enviar\ tarea/chek.jpg");
+    background-repeat: no-repeat;
+    background-position: 60pt;
+    
+}
+.icono2{
+    padding-left:0px;
+    background-image: url("../Enviar\ tarea/estrella.jpg");
+    background-repeat: no-repeat;
+    background-position: 15pt;
+
+}
+
+.icono3{
+    padding-left:0px;
+    background-image: url("../Enviar\ tarea/reloj.jpg");
+    background-repeat: no-repeat;
+    background-position: 60pt;
+}
+
+.icono4{
+    padding-left:60px;
+    background-image: url("../Enviar\ tarea/ubi.jpg");
+    background-repeat: no-repeat;
+    background-position: 80pt;
+}
+.icono5{
+    padding-left:60px;
+    background-image: url("../Enviar\ tarea/fecha.jpg");
+    background-repeat: no-repeat;
+    background-position: 80pt;
+}
+.icono6{
+    padding-left:140px;
+    background-image: url("../Enviar\ tarea/edit.jpg");
+    background-repeat: no-repeat;
+    background-position: 130pt;
+}
+.marca{
+       background-image: url("../Enviar\ tarea/tipos.jpg");
+       background-position: 80pt;
+       background-repeat: no-repeat;
+}
+
+.im1{
+    padding-left:50px;
+    background-image: url("../Enviar\ tarea/im1.jpg");
+    background-repeat: no-repeat;
+    background-position: 150pt;
+    
+}
+
+.im2{
+    padding-left:60px;
+    background-image: url("../Enviar\ tarea/im2.jpg");
+    background-repeat: no-repeat;
+    background-position: 350pt;
+}
+.im3{
+    padding-left:60px;
+    background-image: url("../Enviar\ tarea/im3.jpg");
+    background-repeat: no-repeat;
+    background-position: 580pt;
+}
+.im4{
+    padding-left:60px;
+    background-image: url("../Enviar\ tarea/im4.jpg");
+    background-repeat: no-repeat;
+    background-position: 760pt;
+}
+.fondo2{
+    background-image: url("../Enviar\ tarea/vacuna2.jpg");
+    height: 500px;
+    width: 500px;
+    float:left;
+    background-position: 100pt;
+    background-repeat: no-repeat;
+}
+.i1{
+    padding-left:190px;
+    background-image: url("../Enviar\ tarea/i1.jpg");
+    background-repeat: no-repeat;
+    background-position: 200pt;
+}
+
+.i2{
+    padding-left:190px;
+    background-image: url("../Enviar\ tarea/i2.jpg");
+    background-repeat: no-repeat;
+    background-position: 200pt;
+}
+
+.i3{
+    padding-left:190px;
+    background-image: url("../Enviar\ tarea/i3.jpg");
+    background-repeat: no-repeat;
+    background-position: 200pt;
+}
+
+.i4{
+    padding-left:190px;
+    background-image: url("../Enviar\ tarea/i4.jpg");
+    background-repeat: no-repeat;
+    background-position: 200pt;
+}
+
+.i5{
+    padding-left:190px;
+    background-image: url("../Enviar\ tarea/i5.jpg");
+    background-repeat: no-repeat;
+    background-position: 200pt;
+}
+.fa{
+    padding-left:0px;
+    background-image: url("../Enviar\ tarea/fa.jpg");
+    background-repeat: no-repeat;
+    background-position: 50pt;
+}
+
+.fb{
+    padding-left:0px;
+    background-image: url("../Enviar\ tarea/fb.jpg");
+    background-repeat: no-repeat;
+    background-position: 50pt;
+}
+.fondo3{
+    background-image: url("../Enviar\ tarea/fondo3.jpg");
+    height: 400px;
+    width: 500px;
+    float:right;
+    background-repeat: no-repeat;
+    
+}
+
+.llamada{
+    padding-left:190px;
+    background-image: url("../Enviar\ tarea/llamada.jpg");
+    background-repeat: no-repeat;
+    background-position: 30pt;
+}
+
+.chat{
+    
+    background-image: url("../Enviar\ tarea/Chat.jpg");
+    background-repeat: no-repeat;
+    background-position: 4pt;
+}
+
+.video{
+    padding-left:500px;
+    background-image: url("../Enviar\ tarea/video.jpg");
+    background-repeat: no-repeat;
+    background-position: 1pt;
+    height: 200px;
+    width: 200px;
+}
+
+.mensaje{
+    padding-right: 900px;
+    background-image: url("../Enviar\ tarea/Mensaje.jpg");
+    background-repeat: no-repeat;
+    background-position: 10pt;
+    height: 200px;
+    width: 200px;
+}
+
+.fondoRepetidoX{
+    background-image: url("../images/fondo2.jpg");
+    background-repeat: repeat-x;
+}
+
+.fondoRepetidoY{
+    background-image: url("../images/fondo1.jpg");
+    background-repeat: repeat-y;
+}
+
+.fondoNoRepetido{
+  
+    background-repeat: no-repeat;
+}
+
+.fondoPosicion{
+    background-image: url("../images/fondo1.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.fondoCompleto{
+    background-image: url("../images/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
